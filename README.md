@@ -1,2 +1,8 @@
 My first repo
-g
+
+Project description
+
+list of features
+
+- feature 1
+- feature 2
